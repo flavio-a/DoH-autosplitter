@@ -20,7 +20,7 @@ startup
 init
 {
 	// Eventually I may want to implement v1.1
-	version = "v1.0";	
+	version = "v1.0";
 }
 
 update

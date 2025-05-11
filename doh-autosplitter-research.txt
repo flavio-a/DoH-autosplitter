@@ -1,0 +1,5 @@
+## Dungeons counter
+- goes to 0 in main menu and when loading saves (including after deaths)
+- gets borked with Overgrown Cave skip (increases by 1 after the campfire investigation)
+
+## Load screen flag
